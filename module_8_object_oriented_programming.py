@@ -184,5 +184,3 @@ Full_timer_1 = FullTimeStaff("Harry", 4000, 10)
 Part_timer_1 = PartTimeStaff("Jayce", "$8")
 
 Full_timer_1.display_details()
-
-#---------------------------------POLYMERISM-----------------------------------
