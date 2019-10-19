@@ -1,2 +1,4 @@
-# Strings_Python3
-Some super useful Strings Methods and practices I have learnt! 
+Let's Learn Python 3!
+
+The IDE I've used is Atom here: 
+https://atom.io/
